@@ -20,7 +20,7 @@ O objetivo foi reforçar conceitos fundamentais e aplicar boas práticas de mani
 
 ## 🌐 Acesse o projeto
 
-- **GitHub Pages / Netlify:** [👉 Testar a aplicação](https://SEU-LINK-NETLIFY-AQUI)
+- **GitHub Pages / Netlify:** [👉 Testar a aplicação](https://number-analyzer-project.netlify.app/)
 - **Código-fonte:** [github.com/NetoDamasceno/interactive-number-list](https://github.com/NetoDamasceno/interactive-number-list)
 
 ## 🧑‍💻 Autor
