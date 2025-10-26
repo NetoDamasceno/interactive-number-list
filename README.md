@@ -26,4 +26,4 @@ O objetivo foi reforçar conceitos fundamentais e aplicar boas práticas de mani
 ## 🧑‍💻 Autor
 
 Feito com dedicação por **Neto Damasceno** 💪  
-[LinkedIn](https://www.linkedin.com/in/netodamasceno/) | [GitHub](https://github.com/NetoDamasceno)
+[LinkedIn](https://www.linkedin.com/in/neto-damasceno/) | [GitHub](https://github.com/NetoDamasceno)
